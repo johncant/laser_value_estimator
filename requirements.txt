@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+statsmodels
+matplotlib
+bokeh
+holoviews
+torch
+skorch
+sklearn-pandas
+spacy
+scrapy
+bs4
+jupyter
+ipython
+jsonlines
+xgboost
